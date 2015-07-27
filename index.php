@@ -8,9 +8,9 @@
 	* @website http://ahmadnaser.com
 
 
--- ----------------------------
--- Table structure for `user`
--- ----------------------------
+*-- ----------------------------
+*-- Table structure for `user`
+*-- ----------------------------
 DROP TABLE IF EXISTS `user`;
 CREATE TABLE `user` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
@@ -27,9 +27,9 @@ CREATE TABLE `user` (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES ('1', 'ahmad@ahmad.com', 'asd', 'asd', '1', 'asdds', 'asd1');	*/
+INSERT INTO `user` VALUES ('1', 'ahmad@ahmad.com', 'asd', 'asd', '1', 'asdds', 'asd1');	
 	
-
+*/
 	
 	
 	
